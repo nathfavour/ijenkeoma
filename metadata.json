@@ -1,0 +1,6 @@
+{
+  "name": "Ìjènkéọ́mā Multimodal Transit Engine",
+  "description": "Africa's real-time multimodal navigation, visual proofing, ground-truth transit consensus pricing, and B2B mobility data intelligence engine.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
